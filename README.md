@@ -1,5 +1,5 @@
 # Math Tutor | Algebra Teacher | Calculus Expert | LaTeX Editor
-I am an Online Top Rated Mathe Tutor at Upwork [Here is my profile](https://www.upwork.com/freelancers/~01fa8974d68c36cf4e) and I also work as a Part-time lecturer in Pure Mathematics at the [University of Eldoret](https://www.uoeld.ac.ke/). 
+I am an Online Top Rated Mathe Tutor at Upwork [Here is my profile](https://www.upwork.com/freelancers/~01fa8974d68c36cf4e) and as a Part-time lecturer in Pure Mathematics at the [University of Eldoret](https://www.uoeld.ac.ke/). 
 ### Education Information 📖
 
 #### PhD Student., Pure Mathematics.
