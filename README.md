@@ -1,20 +1,10 @@
 # Math Tutor | Algebra Teacher | Calculus Expert | LaTeX Editor
-
+I am an Online Top Rated Mathe Tutor at Upwork [Here is my profile](https://www.upwork.com/freelancers/~01fa8974d68c36cf4e) and I also work as a Part-time lecturer in Pure Mathematics at the [University of Eldoret](https://www.uoeld.ac.ke/). 
 ### Education Information 📖
 
-#### Pure Mathematics, PhD Student
-#### Masters of Science in Pure Mathematics 🎓 
-   
-University: Moi University (Kenya) 
-Date: February 2016-2018 
-Thesis Title: The Weakly Sign Symmetric $P_{0,1}^+$-Matrix Completion Problem
-Graduated on 22nd August 2019
-
-#### Bachelor of Science in Mathematics and Computer Science 🎓 
-
-University: Jomo Kenyatta University of Agriculture and Technology-JKUAT (Kenya) 
-Date: May 2010- December 2013 
-Second class upper division (Graduated 27th June 2014)
+#### PhD Student., Pure Mathematics.
+#### MSc.,Pure Mathematics 🎓 | [Moi University](https://www.mu.ac.ke/index.php/en/) 
+#### BSc., Mathematics and Computer Science 🎓 | [JKUAT](https://www.jkuat.ac.ke/) 
 
 ### Research and Publications 
 1. International Journal of Sciences: Basic and Applied Research (IJSBAR). Vol 37(1), 
@@ -131,7 +121,3 @@ Research Interest:
 2. 4th Nairobi School and Workshop on Algebraic Geometric held at University of Nairobi 
 3. Leadership Training held at Cryfish Camp, Naivasha-Kenya 
 4. International Conference on Education in Mathematics, Science and Technology (ICMST), held on May 18 -21, 2023 in Capppadocia/Turkey 
-
-### Relevant Work Experience 
-1. Part Time lecturer University of Eldoret, Main Campus (Sept 2020-Date) 
-2. Part Time lecturer Koitaleel Samoei University College, Main Campus (Sept 2021-Date) 
